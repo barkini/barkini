@@ -7,9 +7,9 @@ I'm building small, meaningful web tools that make daily life smoother — from 
 | App | What it does | Tech |
 |---|---|---|
 | [📚 Book Club App](https://github.com/barkini/bookclub-app) | Nominate & vote for books anonymously with friends | Firebase, Vanilla JS |
-| 🗺️ Roadtrip App (coming soon) | View and organize travel itinerary with weather & events | Flask, Sheets, Firestore |
-| 🍼 Rental Tracker (work, internal) | Track equipment rentals + automated reminders | Google Sheets, Apps Script |
-| 💫 Echoes (WIP) | Memory vault app for storing and tagging personal moments - I created it as an alternative to Instagram | Private-first, mood analytics |
+| 🗺️ Roadtrip App (coming soon) | View and organize travel itinerary with planner, accomodation and weather infos | Flask, Sheets, Firestore |
+| ⟳ Rental Tracker (work, internal) | Track equipment rentals + automated reminders | Google Sheets, Apps Script |
+| 📸 Echoes (WIP) | Memory vault app for storing and tagging personal moments - I created it as an alternative to Instagram | Private-first, mood analytics |
 | 🧽 FluffyClean (WIP) | Chore tracking app that's kind, simple, and motivating | Firebase, Responsive UI |
 ---
 ## 🔧 Tech I Like using
